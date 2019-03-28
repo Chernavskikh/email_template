@@ -1,0 +1,1 @@
+Base email HTML template
